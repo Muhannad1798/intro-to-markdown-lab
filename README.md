@@ -28,7 +28,7 @@ const greet = (name) => {
 
 ## 2. Calling a function
 
-To execute the function, you _call_ or _invoke_ it by using its name followed by parentheses.
+To execute the function, you _ *call* _ or _ *invoke* _ it by using its name followed by parentheses.
 
 **Example**:
 
@@ -36,7 +36,7 @@ To execute the function, you _call_ or _invoke_ it by using its name followed by
 
 ## 3. Return values
 
-Functions can process data input and output a value using the return keyword.
+Functions can process data input and output a value using the _return_ keyword.
 
 **_Example_**:
 
@@ -54,4 +54,4 @@ console.log(total) // Expected value: 6
 
 For more information on functions and how they are used in JS, check out the [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
-[file](https://www.istockphoto.com/photo/open-file-gm1346014901-423905092?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmdr-file&utm_medium=affiliate&utm_source=unsplash&utm_term=mdr+file%3A%3Areduced-affiliates%3Aquarter)
+![pic](https://images.unsplash.com/photo-1721332154373-17e78d19b4a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8)
